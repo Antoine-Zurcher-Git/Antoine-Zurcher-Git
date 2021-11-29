@@ -5,8 +5,8 @@
 <h1 align="center">Bienvenue sur mon profil Github !</h1>
 <h3 align="center">Étudiant Ingénieur à l'École Centrale de Lyon | Passioné d'informatique </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/antoine-zurcher-b69809201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href = "mailto: antoine.zurcher@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antoine-zurcher-b69809201/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="aksia" height="35" width="35" /></a>
+<a href = "mailto: antoine.zurcher@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/langfr-800px-Gmail_icon_%282020%29.svg.png" height="35" width="46" /></a>
 </p>
 
 
