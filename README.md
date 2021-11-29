@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Antoine-Zurcher-Git/Antoine-Zurcher-Git/blob/main/banniere.png" height="250"/>
+  <img src="https://github.com/Antoine-Zurcher-Git/Antoine-Zurcher-Git/blob/main/data/banniere.png" height="250"/>
 </p>
 <hr>
 <h1 align="center">Bienvenue sur mon profil Github !</h1>
