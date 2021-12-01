@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="https://github.com/Antoine-Zurcher-Git/Antoine-Zurcher-Git/blob/main/data/banniere.png" height="250"/>
 </p>
+-->
 <hr>
 <h1 align="center">Bienvenue sur mon profil Github !</h1>
 <h3 align="center">Étudiant Ingénieur à l'École Centrale de Lyon | Passioné d'informatique </h3>
